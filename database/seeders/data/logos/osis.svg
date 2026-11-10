@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="Logo OSIS">
+  <rect width="160" height="160" rx="34" fill="#0F2A5C"/>
+  <circle cx="132" cy="28" r="40" fill="#2563EB" opacity="0.35"/>
+  <circle cx="24" cy="140" r="30" fill="#BFDBFE" opacity="0.25"/>
+  <path d="M80 34l8.5 17.4 19.2 2.8-13.9 13.5 3.3 19.1L80 77.2 62.9 86.8l3.3-19.1L52.3 54.2l19.2-2.8z" fill="#93C5FD"/>
+  <text x="80" y="126" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#FFFFFF" letter-spacing="2">OSIS</text>
+</svg>

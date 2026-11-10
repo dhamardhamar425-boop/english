@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="Logo PMR">
+  <rect width="160" height="160" rx="34" fill="#0F2A5C"/>
+  <circle cx="132" cy="28" r="40" fill="#2563EB" opacity="0.35"/>
+  <circle cx="24" cy="140" r="30" fill="#BFDBFE" opacity="0.25"/>
+  <path d="M32 86h22l10-20 14 40 12-30 8 10h30" fill="none" stroke="#93C5FD" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="80" y="132" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#FFFFFF" letter-spacing="3">PMR</text>
+</svg>

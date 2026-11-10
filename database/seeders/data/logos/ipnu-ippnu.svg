@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="Logo IPNU-IPPNU">
+  <rect width="160" height="160" rx="34" fill="#0F2A5C"/>
+  <circle cx="132" cy="28" r="40" fill="#2563EB" opacity="0.35"/>
+  <circle cx="24" cy="140" r="30" fill="#BFDBFE" opacity="0.25"/>
+  <path d="M80 36c14 8 24 12 34 12v22c0 20-14 34-34 44-20-10-34-24-34-44V48c10 0 20-4 34-12z" fill="none" stroke="#93C5FD" stroke-width="5" stroke-linejoin="round"/>
+  <text x="80" y="94" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF" letter-spacing="1">IPNU</text>
+  <text x="80" y="124" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF" letter-spacing="1">IPPNU</text>
+</svg>

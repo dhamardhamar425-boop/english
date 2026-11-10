@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="Logo PKS">
+  <rect width="160" height="160" rx="34" fill="#0F2A5C"/>
+  <circle cx="132" cy="28" r="40" fill="#2563EB" opacity="0.35"/>
+  <circle cx="24" cy="140" r="30" fill="#BFDBFE" opacity="0.25"/>
+  <path d="M80 32l32 10v30c0 24-16 42-32 52-16-10-32-28-32-52V42z" fill="none" stroke="#93C5FD" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M68 78l9 9 17-19" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="80" y="140" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF" letter-spacing="4">PKS</text>
+</svg>
